@@ -35,6 +35,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3583-count-special-triplets](https://github.com/mukesh312007/LeetCode/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/mukesh312007/LeetCode/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mukesh312007/LeetCode/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mukesh312007/LeetCode/tree/main/3562-maximum-profit-from-trading-stocks-with-discounts/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/mukesh312007/LeetCode/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +210,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/mukesh312007/LeetCode/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 <!---LeetCode Topics End-->
