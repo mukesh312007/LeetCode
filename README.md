@@ -9,6 +9,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/mukesh312007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mukesh312007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -75,6 +76,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mukesh312007/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/mukesh312007/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mukesh312007/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/mukesh312007/LeetCode/tree/main/3433-count-mentions-per-user/) | Medium |
@@ -84,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -96,6 +99,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -117,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mukesh312007/LeetCode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 <!---LeetCode Topics End-->
