@@ -12,6 +12,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mukesh312007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | ------- | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
