@@ -21,6 +21,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/mukesh312007/LeetCode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mukesh312007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mukesh312007/LeetCode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mukesh312007/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mukesh312007/LeetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
@@ -47,6 +48,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mukesh312007/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mukesh312007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mukesh312007/LeetCode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2092-find-all-people-with-secret](https://github.com/mukesh312007/LeetCode/tree/main/2092-find-all-people-with-secret/) | Hard |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mukesh312007/LeetCode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,4 +217,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mukesh312007/LeetCode/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mukesh312007/LeetCode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 <!---LeetCode Topics End-->
