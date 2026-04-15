@@ -15,6 +15,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mukesh312007/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mukesh312007/LeetCode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3583-count-special-triplets](https://github.com/mukesh312007/LeetCode/tree/main/3583-count-special-triplets/) | Medium |
 ## String
@@ -70,6 +71,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mukesh312007/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mukesh312007/LeetCode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +101,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3583-count-special-triplets](https://github.com/mukesh312007/LeetCode/tree/main/3583-count-special-triplets/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mukesh312007/LeetCode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mukesh312007/LeetCode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 <!---LeetCode Topics End-->
