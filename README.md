@@ -12,6 +12,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/mukesh312007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1390-four-divisors](https://github.com/mukesh312007/LeetCode/tree/main/1390-four-divisors/) | Medium |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -109,6 +110,7 @@
 | ------- | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mukesh312007/LeetCode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mukesh312007/LeetCode/tree/main/3562-maximum-profit-from-trading-stocks-with-discounts/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
