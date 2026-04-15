@@ -22,6 +22,7 @@
 | [2402-meeting-rooms-iii](https://github.com/mukesh312007/LeetCode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mukesh312007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mukesh312007/LeetCode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/mukesh312007/LeetCode/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mukesh312007/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mukesh312007/LeetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
@@ -49,6 +50,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/mukesh312007/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mukesh312007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mukesh312007/LeetCode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/mukesh312007/LeetCode/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -131,6 +133,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/mukesh312007/LeetCode/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mukesh312007/LeetCode/tree/main/3562-maximum-profit-from-trading-stocks-with-discounts/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mukesh312007/LeetCode/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
@@ -196,6 +199,7 @@
 | ------- | ------- |
 | [2092-find-all-people-with-secret](https://github.com/mukesh312007/LeetCode/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mukesh312007/LeetCode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/mukesh312007/LeetCode/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +225,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mukesh312007/LeetCode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/mukesh312007/LeetCode/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/mukesh312007/LeetCode/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 <!---LeetCode Topics End-->
