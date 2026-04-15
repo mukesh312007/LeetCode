@@ -33,6 +33,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mukesh312007/LeetCode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/mukesh312007/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mukesh312007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
 ## Hash Table
@@ -78,6 +79,7 @@
 | ------- | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/mukesh312007/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mukesh312007/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
