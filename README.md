@@ -19,12 +19,14 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mukesh312007/LeetCode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3583-count-special-triplets](https://github.com/mukesh312007/LeetCode/tree/main/3583-count-special-triplets/) | Medium |
+| [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mukesh312007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +36,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3583-count-special-triplets](https://github.com/mukesh312007/LeetCode/tree/main/3583-count-special-triplets/) | Medium |
+| [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +44,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/mukesh312007/LeetCode/tree/main/3433-count-mentions-per-user/) | Medium |
+| [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
