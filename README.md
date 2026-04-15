@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mukesh312007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
 <!---LeetCode Topics End-->
