@@ -14,6 +14,7 @@
 | [1390-four-divisors](https://github.com/mukesh312007/LeetCode/tree/main/1390-four-divisors/) | Medium |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mukesh312007/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/mukesh312007/LeetCode/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -62,6 +63,7 @@
 | ------- | ------- |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mukesh312007/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/mukesh312007/LeetCode/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/mukesh312007/LeetCode/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -82,6 +84,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mukesh312007/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mukesh312007/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -160,6 +163,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mukesh312007/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
