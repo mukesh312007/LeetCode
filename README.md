@@ -37,6 +37,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3583-count-special-triplets](https://github.com/mukesh312007/LeetCode/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
+| [3637-trionic-array-i](https://github.com/mukesh312007/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mukesh312007/LeetCode/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mukesh312007/LeetCode/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## String
