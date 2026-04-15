@@ -8,6 +8,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mukesh312007/LeetCode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mukesh312007/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mukesh312007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -40,6 +41,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mukesh312007/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
