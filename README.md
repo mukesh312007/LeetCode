@@ -44,6 +44,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mukesh312007/LeetCode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
@@ -84,6 +85,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/mukesh312007/LeetCode/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -101,6 +103,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mukesh312007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mukesh312007/LeetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
@@ -118,6 +121,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1390-four-divisors](https://github.com/mukesh312007/LeetCode/tree/main/1390-four-divisors/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mukesh312007/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
