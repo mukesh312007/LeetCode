@@ -46,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mukesh312007/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/mukesh312007/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
