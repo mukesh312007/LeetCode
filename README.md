@@ -49,6 +49,7 @@
 | [0006-zigzag-conversion](https://github.com/mukesh312007/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/mukesh312007/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/mukesh312007/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0013-roman-to-integer](https://github.com/mukesh312007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -63,6 +64,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/mukesh312007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mukesh312007/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -128,6 +130,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/mukesh312007/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/mukesh312007/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/mukesh312007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1390-four-divisors](https://github.com/mukesh312007/LeetCode/tree/main/1390-four-divisors/) | Medium |
