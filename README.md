@@ -181,6 +181,7 @@
 | [0029-divide-two-integers](https://github.com/mukesh312007/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/mukesh312007/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/mukesh312007/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/mukesh312007/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1390-four-divisors](https://github.com/mukesh312007/LeetCode/tree/main/1390-four-divisors/) | Medium |
@@ -339,6 +340,7 @@
 | [0010-regular-expression-matching](https://github.com/mukesh312007/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/mukesh312007/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/mukesh312007/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/mukesh312007/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
