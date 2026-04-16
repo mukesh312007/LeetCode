@@ -31,6 +31,7 @@
 | [0075-sort-colors](https://github.com/mukesh312007/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/mukesh312007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mukesh312007/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -351,6 +352,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukesh312007/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mukesh312007/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/mukesh312007/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/mukesh312007/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
