@@ -71,6 +71,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mukesh312007/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/mukesh312007/LeetCode/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/mukesh312007/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -119,6 +120,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/mukesh312007/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
@@ -160,6 +162,7 @@
 | [0009-palindrome-number](https://github.com/mukesh312007/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/mukesh312007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/mukesh312007/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/mukesh312007/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1390-four-divisors](https://github.com/mukesh312007/LeetCode/tree/main/1390-four-divisors/) | Medium |
