@@ -83,6 +83,7 @@
 | [0044-wildcard-matching](https://github.com/mukesh312007/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/mukesh312007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/mukesh312007/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/mukesh312007/LeetCode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
