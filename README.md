@@ -27,6 +27,7 @@
 | [0056-merge-intervals](https://github.com/mukesh312007/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/mukesh312007/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/mukesh312007/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/mukesh312007/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mukesh312007/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -86,6 +87,7 @@
 | [0058-length-of-last-word](https://github.com/mukesh312007/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/mukesh312007/LeetCode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/mukesh312007/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mukesh312007/LeetCode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
@@ -138,6 +140,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/mukesh312007/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/mukesh312007/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/mukesh312007/LeetCode/tree/main/2402-meeting-rooms-iii/) | Hard |
