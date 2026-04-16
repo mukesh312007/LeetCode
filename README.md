@@ -189,6 +189,7 @@
 | [0060-permutation-sequence](https://github.com/mukesh312007/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/mukesh312007/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/mukesh312007/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1390-four-divisors](https://github.com/mukesh312007/LeetCode/tree/main/1390-four-divisors/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mukesh312007/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -333,6 +334,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/mukesh312007/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukesh312007/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mukesh312007/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/mukesh312007/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/mukesh312007/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
