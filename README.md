@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/mukesh312007/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mukesh312007/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mukesh312007/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/mukesh312007/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mukesh312007/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -223,6 +224,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mukesh312007/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mukesh312007/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukesh312007/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/mukesh312007/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mukesh312007/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Tree
