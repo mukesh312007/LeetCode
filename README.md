@@ -22,6 +22,7 @@
 | [0046-permutations](https://github.com/mukesh312007/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/mukesh312007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/mukesh312007/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/mukesh312007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mukesh312007/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -194,6 +195,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/mukesh312007/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/mukesh312007/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/mukesh312007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mukesh312007/LeetCode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -323,6 +325,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mukesh312007/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/mukesh312007/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/mukesh312007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
