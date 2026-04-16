@@ -61,6 +61,7 @@
 | [0020-valid-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukesh312007/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mukesh312007/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mukesh312007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mukesh312007/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mukesh312007/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -186,6 +188,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mukesh312007/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mukesh312007/LeetCode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
