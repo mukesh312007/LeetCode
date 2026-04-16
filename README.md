@@ -32,6 +32,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mukesh312007/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/mukesh312007/LeetCode/tree/main/3433-count-mentions-per-user/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/mukesh312007/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mukesh312007/LeetCode/tree/main/3562-maximum-profit-from-trading-stocks-with-discounts/) | Hard |
@@ -72,6 +73,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mukesh312007/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/mukesh312007/LeetCode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/mukesh312007/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3583-count-special-triplets](https://github.com/mukesh312007/LeetCode/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
@@ -254,6 +256,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mukesh312007/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [3488-closest-equal-element-queries](https://github.com/mukesh312007/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
