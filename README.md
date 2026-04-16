@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/mukesh312007/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/mukesh312007/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/mukesh312007/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/mukesh312007/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mukesh312007/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -86,6 +87,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mukesh312007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mukesh312007/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0041-first-missing-positive](https://github.com/mukesh312007/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mukesh312007/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
