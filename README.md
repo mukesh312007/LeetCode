@@ -20,6 +20,7 @@
 | [0041-first-missing-positive](https://github.com/mukesh312007/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/mukesh312007/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/mukesh312007/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/mukesh312007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mukesh312007/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -75,6 +76,7 @@
 | [0038-count-and-say](https://github.com/mukesh312007/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/mukesh312007/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/mukesh312007/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/mukesh312007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -92,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/mukesh312007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mukesh312007/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/mukesh312007/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/mukesh312007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mukesh312007/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -109,6 +112,7 @@
 | [0015-3sum](https://github.com/mukesh312007/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/mukesh312007/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/mukesh312007/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/mukesh312007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/mukesh312007/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
