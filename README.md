@@ -18,6 +18,7 @@
 | [0039-combination-sum](https://github.com/mukesh312007/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/mukesh312007/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/mukesh312007/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0045-jump-game-ii](https://github.com/mukesh312007/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mukesh312007/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -133,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/mukesh312007/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/mukesh312007/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -184,6 +186,7 @@
 | [0022-generate-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/mukesh312007/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/mukesh312007/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mukesh312007/LeetCode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
