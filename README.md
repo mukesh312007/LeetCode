@@ -125,6 +125,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/mukesh312007/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mukesh312007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
@@ -146,6 +147,7 @@
 | [0007-reverse-integer](https://github.com/mukesh312007/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/mukesh312007/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/mukesh312007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/mukesh312007/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1390-four-divisors](https://github.com/mukesh312007/LeetCode/tree/main/1390-four-divisors/) | Medium |
