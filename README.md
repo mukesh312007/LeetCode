@@ -25,6 +25,7 @@
 | [0053-maximum-subarray](https://github.com/mukesh312007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/mukesh312007/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/mukesh312007/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/mukesh312007/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mukesh312007/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
