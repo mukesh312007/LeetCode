@@ -29,6 +29,7 @@
 | [0066-plus-one](https://github.com/mukesh312007/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/mukesh312007/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0075-sort-colors](https://github.com/mukesh312007/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/mukesh312007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mukesh312007/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/mukesh312007/LeetCode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -169,6 +170,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/mukesh312007/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/mukesh312007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mukesh312007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mukesh312007/LeetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
@@ -371,6 +373,7 @@
 | [0051-n-queens](https://github.com/mukesh312007/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/mukesh312007/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/mukesh312007/LeetCode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/mukesh312007/LeetCode/tree/main/0078-subsets/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
