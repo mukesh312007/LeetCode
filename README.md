@@ -63,6 +63,7 @@
 | [0022-generate-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukesh312007/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mukesh312007/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/mukesh312007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mukesh312007/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -168,6 +169,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mukesh312007/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/mukesh312007/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mukesh312007/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mukesh312007/LeetCode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -181,6 +183,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [2211-count-collisions-on-a-road](https://github.com/mukesh312007/LeetCode/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
