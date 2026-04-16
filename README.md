@@ -240,11 +240,13 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mukesh312007/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [2402-meeting-rooms-iii](https://github.com/mukesh312007/LeetCode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mukesh312007/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -277,6 +279,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mukesh312007/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/mukesh312007/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,4 +288,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mukesh312007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mukesh312007/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
