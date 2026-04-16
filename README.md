@@ -337,6 +337,7 @@
 | [0040-combination-sum-ii](https://github.com/mukesh312007/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/mukesh312007/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/mukesh312007/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/mukesh312007/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
