@@ -303,17 +303,20 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mukesh312007/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mukesh312007/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/mukesh312007/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mukesh312007/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mukesh312007/LeetCode/tree/main/3562-maximum-profit-from-trading-stocks-with-discounts/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/mukesh312007/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mukesh312007/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/mukesh312007/LeetCode/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mukesh312007/LeetCode/tree/main/3562-maximum-profit-from-trading-stocks-with-discounts/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mukesh312007/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mukesh312007/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/mukesh312007/LeetCode/tree/main/2092-find-all-people-with-secret/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -417,6 +420,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mukesh312007/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mukesh312007/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/mukesh312007/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mukesh312007/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
