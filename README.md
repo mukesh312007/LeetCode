@@ -70,6 +70,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mukesh312007/LeetCode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3583-count-special-triplets](https://github.com/mukesh312007/LeetCode/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
+| [3623-count-number-of-trapezoids-i](https://github.com/mukesh312007/LeetCode/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 | [3637-trionic-array-i](https://github.com/mukesh312007/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mukesh312007/LeetCode/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mukesh312007/LeetCode/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
@@ -129,6 +130,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3583-count-special-triplets](https://github.com/mukesh312007/LeetCode/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/mukesh312007/LeetCode/tree/main/3606-coupon-code-validator/) | Easy |
+| [3623-count-number-of-trapezoids-i](https://github.com/mukesh312007/LeetCode/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@
 | [3433-count-mentions-per-user](https://github.com/mukesh312007/LeetCode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mukesh312007/LeetCode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
+| [3623-count-number-of-trapezoids-i](https://github.com/mukesh312007/LeetCode/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,4 +429,8 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mukesh312007/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mukesh312007/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/mukesh312007/LeetCode/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 <!---LeetCode Topics End-->
