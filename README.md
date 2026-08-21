@@ -55,6 +55,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mukesh312007/LeetCode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mukesh312007/LeetCode/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mukesh312007/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukesh312007/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mukesh312007/LeetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
@@ -182,6 +183,7 @@
 | [0078-subsets](https://github.com/mukesh312007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mukesh312007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukesh312007/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mukesh312007/LeetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 ## Prefix Sum
@@ -213,6 +215,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mukesh312007/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/mukesh312007/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukesh312007/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mukesh312007/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/mukesh312007/LeetCode/tree/main/3433-count-mentions-per-user/) | Medium |
@@ -281,6 +284,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukesh312007/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mukesh312007/LeetCode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -375,6 +379,7 @@
 | [0069-sqrtx](https://github.com/mukesh312007/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mukesh312007/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mukesh312007/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukesh312007/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/mukesh312007/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -433,4 +438,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/mukesh312007/LeetCode/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukesh312007/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
