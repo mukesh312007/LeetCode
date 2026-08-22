@@ -221,6 +221,7 @@
 | [3433-count-mentions-per-user](https://github.com/mukesh312007/LeetCode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mukesh312007/LeetCode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mukesh312007/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/mukesh312007/LeetCode/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
