@@ -46,6 +46,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mukesh312007/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1872-stone-game-viii](https://github.com/mukesh312007/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mukesh312007/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mukesh312007/LeetCode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -193,6 +194,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/mukesh312007/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1872-stone-game-viii](https://github.com/mukesh312007/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mukesh312007/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
@@ -216,6 +218,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/mukesh312007/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1390-four-divisors](https://github.com/mukesh312007/LeetCode/tree/main/1390-four-divisors/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mukesh312007/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1872-stone-game-viii](https://github.com/mukesh312007/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1925-count-square-sum-triples](https://github.com/mukesh312007/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukesh312007/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -244,6 +247,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mukesh312007/LeetCode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mukesh312007/LeetCode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mukesh312007/LeetCode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
+| [1872-stone-game-viii](https://github.com/mukesh312007/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mukesh312007/LeetCode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/mukesh312007/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mukesh312007/LeetCode/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
@@ -449,4 +453,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukesh312007/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/mukesh312007/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/mukesh312007/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/mukesh312007/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
